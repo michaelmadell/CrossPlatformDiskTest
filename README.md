@@ -1,3 +1,5 @@
+> Fork of ![CPDT](https://github.com/maxim-saplin/crossplatformdisktest)
+
 # Cross Platform Disk Test (CPDT)
 
 Measuring storage performance (SSD, HDD, USB Flash etc.) and RAM speed across Windows, macOS and Android devices. Random and sequential throughput (read/write operations) is calculted in MB/s and can be compared in consistent and reliable manner between mobile and desktop platfotms and devices.
